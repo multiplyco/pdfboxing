@@ -11,3 +11,6 @@ pom.xml.asc
 .classpath
 /.nrepl-port
 .cpcache/
+.idea
+.clj-kondo/.cache
+*.iml*
